@@ -675,7 +675,7 @@
     "name": "BSVBEAR/USDC",
     "address": "7bfmpdvJg8ZZULu7Yk5356yF1XXs5hL5EYR29XbZsqKm",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "EOSBULL/WUSDT",
@@ -717,7 +717,7 @@
     "name": "BVOL/USDC",
     "address": "F8tpSFb6PGFkND1gCfN6oMdiLuPocYbtiDyQdGP7VRfX",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "BVOL/WUSDT",
@@ -729,7 +729,7 @@
     "name": "MIDBULL/USDC",
     "address": "8BBtLkoaEyavREriwGUudzAcihTH9SJLAPBbgb7QZe9y",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "BCHBULL/USDC",
@@ -747,7 +747,7 @@
     "name": "BULL/USDC",
     "address": "9YXVzyXDkPt2aby5itYuuyd8A91424sdjQyDX666X2C4",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "MIDBEAR/USDC",
@@ -783,7 +783,7 @@
     "name": "EOSBEAR/USDC",
     "address": "2BQrJP599QVKRyHhyJ6oRrTPNUmPBgXxiBo2duvYdacy",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "ETHBEAR/WUSDT",
@@ -813,7 +813,7 @@
     "name": "ETH/TRYB",
     "address": "HGJqccU7numZ9mNn3r3z2h2wvW89NPxVpBgX5tBBUMDG",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "SECO/USDC",
@@ -873,19 +873,19 @@
     "name": "1INCH/USDC",
     "address": "HCyhGnC77f7DaxQEvzj59g9ve7eJJXjsMYFWo4t7shcj",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "TRYB/USDC",
     "address": "2axQYyzJDaMDA1TF3sfBmg5vkGTiRayrAkHJQA3JsC2v",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "RSR/USDC",
     "address": "3h5QsiZKLkmApBTsMvJBZ8fPivo9HSrmR1LaJABN9zx6",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "LQID/USDC",
@@ -897,7 +897,7 @@
     "name": "BTC/TRYB",
     "address": "5D38vzPSfmAnYvgQgAjCeDAa2U4N9mCFdAoHaLvNk2nN",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "PERP/USDC",
@@ -969,7 +969,7 @@
     "name": "USDC/ODOP",
     "address": "9kheVGeeCSrN4jWte8oPiFaSAQn6WCdRfj6z7GhpqZwG",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "BTC/ODOP",
@@ -1113,7 +1113,7 @@
     "name": "ETHBULL/USDT",
     "address": "FuhKVt5YYCv7vXnADXtb7vqzYn82PJoap86q5wm8LX8Q",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "BVOL/USDT",
@@ -1167,7 +1167,7 @@
     "name": "LIEN/USDC",
     "address": "E6qm2xxhYa8H2YcPoydo6rFd8zgaX7cNYBoAQcw1QZ4b",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "ROPE/USDC",
@@ -1215,7 +1215,7 @@
     "name": "TOMO/SRM",
     "address": "7jBrpiq3w2ywzzb54K9SoosZKy7nhuSQK9XrsgSMogFH",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "LINK/SRM",
@@ -1227,7 +1227,7 @@
     "name": "ETH/SRM",
     "address": "3Dpu2kXk87mF9Ls9caWCHqyBiv9gK3PwQkSvnrHZDrmi",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "SAMO/USDC",
@@ -1257,7 +1257,7 @@
     "name": "SOL/ODOP",
     "address": "CRW23rK5LksqowrfpQTEUVEFUDNDLF34STyW7gXV18Xt",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "SLIM/SOL",
@@ -1275,7 +1275,7 @@
     "name": "WOO/USDC",
     "address": "2Ux1EYeWsxywPKouRCNiALCZ1y3m563Tc4hq1kQganiq",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
-    "deprecated": false
+    "deprecated": true
   },
   {
     "name": "SNY/USDC",
